@@ -3,7 +3,7 @@ A tool to find the memory address of an environment variable in a binary. This c
 
 ## Usage
 ```bash
-hp@machine$ ./getenvaddr SHELL getowner
+hp@machine$ ./getenvaddr SHELL somebinaryfile
 SHELL will be at 0xffffd730
 ```
 
